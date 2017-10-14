@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var lux = require('../lib/cli/lux');
+lux();
